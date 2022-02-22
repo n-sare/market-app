@@ -1,0 +1,6 @@
+{
+  "name": "tag-filter-component",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./TagFilterComponent.js"
+}

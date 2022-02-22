@@ -1,0 +1,6 @@
+{
+  "name": "main-desktop-page",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./MainDesktopPage.js"
+}
