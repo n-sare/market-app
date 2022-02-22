@@ -4,7 +4,7 @@ import axios from 'axios';
 export default {
   // api to get products to display
   getProducts: (params) =>
-    axios.get(`/items`, params
+    axios.get(`https://market-fake-server.herokuapp.com/items`, params
     ).then(result => {
       return result;
     }).catch(function (error) {
