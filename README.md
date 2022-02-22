@@ -22,7 +22,7 @@ npm start
 ```
 ##Project Structure under src folder looks like this:
 
-### `
+```bash
 src
 ├───api
 ├───components
@@ -49,4 +49,4 @@ src
 │       ├───company
 │       └───product
 └───utils
-`
+```
