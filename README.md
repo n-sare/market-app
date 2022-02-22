@@ -72,3 +72,6 @@ Axios is used to send requests to get, put, update or delete data via apis.
 #### React Device Detect
 React device detect library is used to increase user experience by defining different UI behaviors in mobile and desktop. This library detects if user is on mobile or on desktop.
 
+#### JSON Server
+Json-server is used to create fake REST api at development stage. Now at working stage, json-server is also built seperately on this [link](https://market-fake-server.herokuapp.com/).
+
