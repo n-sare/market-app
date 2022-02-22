@@ -2,8 +2,12 @@
 
 Market app is a React project that performs basic operations which are used in frontend development often; like filtering and sorting, calling API to to get or send data.
 It consists of a single page that mocks an e-commerce page. User can filter products by brand, tag and item type, sort products by date or price and can add product to shopping cart or remove from it.
-Heroku link to working project: https://market-app-getir.herokuapp.com/
-Netlify link to working project: https://62155ab04053812703c01a79--super-cool-site-by-n-sare.netlify.app/
+
+#### Heroku link to working project: 
+https://market-app-getir.herokuapp.com/
+
+#### Netlify link to working project: 
+https://62155ab04053812703c01a79--super-cool-site-by-n-sare.netlify.app/
 
 # Installation and Usage
 Use the package manager [npm](https://www.npmjs.com/package/download) to install project.
